@@ -1,0 +1,1 @@
+groupYear.AU groupBy $ [5 to 8]

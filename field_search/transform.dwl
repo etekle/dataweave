@@ -1,0 +1,1 @@
+fieldSearch map ((item, index) -> {"EmpName":item.name, "BossName": (fieldSearch filter(value,index) -> value.ID == item.bossID).name[0]} )

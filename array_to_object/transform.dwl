@@ -1,0 +1,1 @@
+array2Object map {(($ splitBy ":")[0]) : (($ splitBy ":")[1])}

@@ -1,0 +1,30 @@
+{
+ "availablePositions": 3,
+ "candidates":
+    [
+      {
+        "name":"Boobyy",
+        "score":99
+      },
+       {
+        "name":"Tillu Merchant",
+        "score":35
+      },
+      {
+        "name":"Chicago Subbarao",
+        "score":96
+      },
+       {
+        "name":"Nippu Nagaraju",
+        "score":40
+      },
+      {
+        "name":"Delhi lilly",
+        "score":84
+      },
+      {
+        "name":"Rakesh Master",
+        "score":52
+      }
+    ]
+} 

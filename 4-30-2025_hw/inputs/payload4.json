@@ -1,0 +1,30 @@
+[
+    {
+        "name": "XML", 
+        "email": "mule@outlook.com", 
+        "phone": "91 8143222333", 
+        "company": "Extensible Markup Language", 
+        "allowance": 2000
+    },
+    {
+        "name": "Mule", 
+        "email": "mule@gmail.com", 
+        "phone": "91 8143222313", 
+        "company": "MuleSoft",
+        "allowance": 4000
+    },
+    {
+        "name": "SF", 
+        "email": "mule@gmail.com", 
+        "phone": "91 8143222313", 
+        "company": "SalesForce",
+        "allowance": 4000
+    },
+    {
+        "name": "DW", 
+        "email": "mule@gmail.com", 
+        "phone": "91 8143222313", 
+        "company": "DataWeave",
+        "allowance": 5000
+    }
+]

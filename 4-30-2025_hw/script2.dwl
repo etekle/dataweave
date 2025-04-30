@@ -1,8 +1,6 @@
 %dw 2.0
 output application/json
 ---
-
-
 [
     {
     firstName: payload2..firstName[0] ,

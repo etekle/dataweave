@@ -1,5 +1,5 @@
 %dw 2.0
-input text
+input payload4 text
 output application/json
 var lines = payload4 splitBy "\r\n"
 var rules = { 

@@ -1,4 +1,5 @@
 %dw 2.0
+input payload3 text
 output application/json
 var x = (payload3 splitBy "\r\n\r\n")
 var y = max(x map ((item, index) -> sum(item splitBy "\r\n")) )

@@ -1,4 +1,5 @@
 %dw 2.0
+input text
 output application/json
 fun recur(item) = if (item is Array) item map recur($) else item + 2
 ---

@@ -1,8 +1,0 @@
-{
-    "camelCase": "camelCase",
-    "kebobCase": "kebob-case-hyphen",
-    "snakeCase": "snake_case_underscore",
-    "pascalCase": "PascalCase",
-    "flatcase": "everything is lowercase",
-    "UPPERFLATCASE": "UPPERFLATECASE"
-}

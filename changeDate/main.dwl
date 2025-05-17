@@ -1,5 +1,4 @@
 %dw 2.0
-input text
 output application/json
 var date = payload as Date {format: "d MMM yyyy"}
 var sub = 1
